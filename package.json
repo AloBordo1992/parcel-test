@@ -2,14 +2,14 @@
   "name": "parcel-test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Illya-Marusich.github.io/parcel-test",
+  "homepage": "https://AloBordo1992.github.io/parcel-test",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Illya-Marusich/parcel-test.git"
+    "url": "git+https://github.com/AloBordo1992/parcel-test.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
